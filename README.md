@@ -1,6 +1,6 @@
 # Airify-Exe
 
-Application should open a tab with API token request, in case it doesn't, generate from here: https://developer.spotify.com/console/put-play/ and paste it on the application console.
+Application should open a link in browser, copy that and paste it on the Python application window.
 
 
 **Pause/Play Spotify Song:** Open ONLY index and middle finger together (keep rest of your fist tight) to pause/play current session's Spotify song.
